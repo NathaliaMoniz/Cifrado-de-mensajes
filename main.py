@@ -16,6 +16,7 @@ import pandas as pd
 import PySimpleGUI as sg
 import datetime
 
+#dfg
 #color de la ventana
 sg.theme('DarkRed')
 
