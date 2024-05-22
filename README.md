@@ -22,7 +22,7 @@ La aplicación principal proporciona una interfaz gráfica para que los usuarios
 - **Autoridades.xlsx:** Contiene las claves privadas de las autoridades certificadoras.
 - **Claves_publicas_autoridades.xlsx:** Almacena las claves públicas y certificados de las autoridades certificadoras.
 
-# setup_databases.py
+# config_database.py
 
 Este archivo contiene código comentado para la configuración inicial de las bases de datos:
 
